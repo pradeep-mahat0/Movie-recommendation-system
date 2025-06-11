@@ -42,7 +42,7 @@ These features are combined into a single string per movie and vectorized using 
 ## How It Works
 
 1. **Load the data** using Pandas.
-2. **Merge** movies and credits datasets on `title`.
+2. **Merge** movies and credits datasets on `movie_id`.
 3. Extract relevant fields: genres, keywords, Overview, cast, crew.
 4. Preprocess and combine them into a single textual feature (`tags`).
 5. Convert text to vectors using **CountVectorizer**.
