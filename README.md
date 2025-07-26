@@ -54,7 +54,8 @@ These features are combined into a single string per movie and vectorized using 
 ## Output Files
 
 - `movie_list.pkl`: Pickled list of all movie titles and their metadata.
-- `similarity.pkl`: Pickled cosine similarity matrix used for recommendations.
+- `similarity.pkl`: Pickled cosine similarity matrix used for recommendations. this file size is too big for github so i don't upload it.you can get it by running the notebook.
+- 
 
 
 
