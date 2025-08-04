@@ -24,7 +24,7 @@ These files contain metadata for 5000 movies including genres, keywords, cast, c
 - **Overview**
 - **Director (from crew)**
 
-These features are combined into a single string per movie and vectorized using **TF-IDF** or **CountVectorizer** for computing **cosine similarity**.
+These features are combined into a single string per movie and vectorized using  **CountVectorizer** for computing **cosine similarity**.
 
 ---
 
